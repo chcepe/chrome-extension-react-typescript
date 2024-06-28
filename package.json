@@ -1,7 +1,7 @@
 {
-  "name": "chrome-react-starter-kit",
+  "name": "chrome-extension-react-typescript",
   "version": "1.0.0",
-  "description": "chrome-react-starter-kit",
+  "description": "A Chrome extension boilerplate with React, TypeScript, Webpack, and Jest",
   "main": "index.js",
   "scripts": {
     "watch": "webpack --config webpack/webpack.dev.js --watch",
@@ -18,7 +18,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/chcepe/chrome-react-starter-kit.git"
+    "url": "https://github.com/chcepe/chrome-extension-react-typescript.git"
   },
   "dependencies": {
     "notyf": "^3.10.0",
