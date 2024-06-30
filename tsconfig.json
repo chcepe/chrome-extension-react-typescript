@@ -6,7 +6,7 @@
     "esModuleInterop": true,
     "sourceMap": false,
     "rootDir": "src",
-    "outDir": "dist/js",
+    "outDir": "dist_ext/js",
     "noEmitOnError": true,
     "jsx": "react",
     "typeRoots": ["node_modules/@types"]

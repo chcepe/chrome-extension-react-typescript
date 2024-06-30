@@ -16,4 +16,4 @@ yarn watch
 ### Load extension to chrome
 
 1. Go to `chrome://extensions/` and click Load Unpacked
-2. Load `dist` folder
+2. Load `dist_ext` folder

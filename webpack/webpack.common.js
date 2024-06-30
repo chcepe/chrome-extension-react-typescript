@@ -11,7 +11,7 @@ module.exports = {
     background: path.join(srcDir, "chrome/background.ts"),
   },
   output: {
-    path: path.join(__dirname, "../dist/js"),
+    path: path.join(__dirname, "../dist_ext/js"),
     filename: "[name].js",
   },
   optimization: {
